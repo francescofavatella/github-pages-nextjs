@@ -8,5 +8,5 @@ module.exports = {
   images: {
     domains: [""],
   },
-  assetPrefix: !debug ? "https://francescofavatella.github.io/blog/" : "",
+  assetPrefix: "https://francescofavatella.github.io/blog/",
 };
